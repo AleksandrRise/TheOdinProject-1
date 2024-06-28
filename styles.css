@@ -133,12 +133,17 @@ header {
     font-size: 36px;
     font-weight: 700;
     color: #1F2937;
+    padding: 0 40px;
 }
 
 .random__cards {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    padding: 0 40px;
 }
 
 .random__card {
