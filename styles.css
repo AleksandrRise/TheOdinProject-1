@@ -58,18 +58,6 @@ header {
     height: 350px;
 }
 
-.awesome__title {
-    font-size: 48px;
-    font-weight: 700;
-    color: #F9FAF8;
-}
-
-.awesome__subtext,
-.awesome__imgText {
-    color: #E5E7EB;
-    font-size: 18px;
-}
-
 .awesome-left {
     width: 50%;
     height: 100%;
@@ -88,6 +76,18 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.awesome__title {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.awesome__subtext,
+.awesome__imgText {
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .awesome__btn {
