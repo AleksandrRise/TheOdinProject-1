@@ -101,4 +101,17 @@ header {
 
     font-weight: 700;
     font-size: 16px;
+
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.awesome__btn:hover {
+    opacity: 0.7;
+}
+
+.awesome__btn:active {
+    transition: all 0.1s;
+    transform: scale(0.9);
+    opacity: 0.7;
 }
