@@ -68,6 +68,10 @@ header {
     padding-right: 60px;
 }
 
+.awesome__subtext {
+    margin: 10px 0;
+}
+
 .awesome-right {
     width: 50%;
     height: 75%;
