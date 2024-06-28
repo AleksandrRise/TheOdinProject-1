@@ -82,6 +82,10 @@ header {
     align-items: center;
 }
 
+.awesome__imgText {
+    text-align: center;
+}
+
 .awesome__title {
     font-size: 48px;
     font-weight: 700;
