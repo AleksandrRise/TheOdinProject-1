@@ -166,3 +166,9 @@ header {
     opacity: 0.6;
     margin-top: 6px;
 }
+
+/* Quote Block */
+.quote {
+    background-color: #E5E7EB;
+    width: 100%;
+}
