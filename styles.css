@@ -242,3 +242,13 @@ header {
 .signup__btn:active {
     transform: scale(0.9);
 }
+
+/* Footer */
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 20px;
+    text-align: center;
+
+    padding: 50px 0;
+}
