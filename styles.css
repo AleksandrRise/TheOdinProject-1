@@ -170,5 +170,19 @@ header {
 /* Quote Block */
 .quote {
     background-color: #E5E7EB;
-    width: 100%;
+    padding: 150px 400px;
+}
+
+.quote__text {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+
+    text-align: start;
+}
+
+.quote__author {
+    font-size: 26px;
+    text-align: end;
 }
