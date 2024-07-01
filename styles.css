@@ -186,3 +186,59 @@ header {
     font-size: 26px;
     text-align: end;
 }
+
+/* Sign-up Block */
+.signup {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 100px 0;
+}
+
+.signup__container {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    max-width: 1000px;
+    padding: 60px 100px;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.signup__texts {
+    margin-right: 350px;
+}
+
+.signup__title {
+    font-size: 24px;
+}
+
+.signup__subtitle {
+    font-size: 18px;
+}
+
+.signup__btn {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 22px;
+
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 5px 30px;
+    transition: all 0.2s ease-in-out;
+}
+
+.signup__btn:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.signup__btn:active {
+    transform: scale(0.9);
+}
