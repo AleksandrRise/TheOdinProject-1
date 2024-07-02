@@ -254,6 +254,19 @@ footer {
 /* Dimensions */
 @media screen and (max-width: 1140px) {
     .signup__container {
+        flex-direction: column;
+        margin: 0 40px;
+        min-width: 30%;
+    }
 
+    .signup__texts {
+        text-align: center;
+    }
+
+    .signup__btn {
+        padding: 5px 0;
+        margin-top: 10px;
+        width: 60%;
+        text-align: center;
     }
 }
